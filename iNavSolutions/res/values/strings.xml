@@ -10,5 +10,7 @@
     <string name="title_activity_test">Test</string>
     <string name="title_activity_main_menu">MainMenu</string>
     <string name="title_activity_blank">Blank</string>
+    <string name="title_activity_locations">Locations</string>
+    <string name="title_activity_all_locations">AllLocations</string>
 
 </resources>
