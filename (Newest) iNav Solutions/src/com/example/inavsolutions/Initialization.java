@@ -1,12 +1,12 @@
 package com.example.inavsolutions;
 
+import location.LocationInfo;
 import android.os.Bundle;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.view.Menu;
 import android.view.View;
-import Location.LocationInfo;
 
 public class Initialization extends Activity {
 

@@ -1,6 +1,6 @@
 package com.example.inavsolutions;
 
-import Location.Hashmap;
+import location.Hashmap;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;

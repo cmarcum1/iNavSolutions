@@ -1,4 +1,4 @@
-package Location;
+package location;
 
 import java.util.ArrayList;
 import java.util.Arrays;
