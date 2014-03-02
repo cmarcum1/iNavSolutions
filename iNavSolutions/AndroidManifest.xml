@@ -31,6 +31,14 @@
             android:name="com.example.inavsolutions.Blank"
             android:label="@string/title_activity_blank" >
         </activity>
+        <activity
+            android:name="com.example.inavsolutions.Locations"
+            android:label="@string/title_activity_locations" >
+        </activity>
+        <activity
+            android:name="com.example.inavsolutions.AllLocations"
+            android:label="@string/title_activity_all_locations" >
+        </activity>
     </application>
 
 </manifest>

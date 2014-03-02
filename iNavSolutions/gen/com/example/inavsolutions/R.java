@@ -40,24 +40,34 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f090007;
-        public static final int button1=0x7f090003;
-        public static final int progressBar1=0x7f090001;
-        public static final int textView1=0x7f090000;
-        public static final int textView2=0x7f090002;
-        public static final int textView3=0x7f090004;
-        public static final int textView4=0x7f090006;
-        public static final int textView5=0x7f090005;
+        public static final int action_settings=0x7f09000d;
+        public static final int button1=0x7f090000;
+        public static final int button2=0x7f090001;
+        public static final int progressBar1=0x7f09000c;
+        public static final int textView1=0x7f090002;
+        public static final int textView10=0x7f090004;
+        public static final int textView2=0x7f090003;
+        public static final int textView3=0x7f09000a;
+        public static final int textView4=0x7f09000b;
+        public static final int textView5=0x7f090009;
+        public static final int textView6=0x7f090008;
+        public static final int textView7=0x7f090006;
+        public static final int textView8=0x7f090007;
+        public static final int textView9=0x7f090005;
     }
     public static final class layout {
-        public static final int activity_blank=0x7f030000;
-        public static final int activity_initialization=0x7f030001;
-        public static final int activity_main_menu=0x7f030002;
+        public static final int activity_all_locations=0x7f030000;
+        public static final int activity_blank=0x7f030001;
+        public static final int activity_initialization=0x7f030002;
+        public static final int activity_locations=0x7f030003;
+        public static final int activity_main_menu=0x7f030004;
     }
     public static final class menu {
-        public static final int blank=0x7f080000;
-        public static final int initialization=0x7f080001;
-        public static final int main_menu=0x7f080002;
+        public static final int all_locations=0x7f080000;
+        public static final int blank=0x7f080001;
+        public static final int initialization=0x7f080002;
+        public static final int locations=0x7f080003;
+        public static final int main_menu=0x7f080004;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
@@ -65,8 +75,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int dummy_button=0x7f060004;
         public static final int dummy_content=0x7f060005;
         public static final int hello_world=0x7f060002;
+        public static final int title_activity_all_locations=0x7f06000a;
         public static final int title_activity_blank=0x7f060008;
         public static final int title_activity_initialization_full=0x7f060003;
+        public static final int title_activity_locations=0x7f060009;
         public static final int title_activity_main_menu=0x7f060007;
         public static final int title_activity_test=0x7f060006;
     }

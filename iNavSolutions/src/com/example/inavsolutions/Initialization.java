@@ -6,6 +6,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.view.Menu;
 import android.view.View;
+import Location.LocationInfo;
 
 public class Initialization extends Activity {
 
@@ -15,8 +16,10 @@ public class Initialization extends Activity {
 		setContentView(R.layout.activity_initialization);
 	}
 	public void Open(View view){
+		LocationInfo.createDB();
 		final Context context = this;
 		Intent intent = new Intent(context,MainMenu.class);
 		startActivity(intent);
 	}
+	
 }
